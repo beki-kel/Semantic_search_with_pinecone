@@ -8,6 +8,7 @@ This repository demonstrates how to implement semantic search using Pinecone, a 
 - **Embedding Generation**: Integrates pre-trained machine learning models for generating semantic embeddings from text data.
 - **Scalability**: Designed to handle large datasets with ease.
 - **Flexible Querying**: Provides a semantic search interface for more accurate and meaningful search results.
+- **Details on semantic search**: [Semantic Note](https://low-spider-3ea.notion.site/Semantic-Search-1445e51b14098092a83cda1ed758c144)
 
 ## Requirements
 
@@ -21,3 +22,5 @@ The required dependencies are listed in the `requirements.txt` file. Install the
 
 ```bash
 pip install -r requirements.txt
+
+
